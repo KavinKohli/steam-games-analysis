@@ -1,0 +1,61 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Data Science
+
+*.h5
+*.pkl
+*.joblib
+*.pickle
+
+# VS Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+
+.env
+
+# Logs
+
+*.log
+
+# Build Files
+
+build/
+dist/
+
+# Cache
+
+.cache/
+.pytest_cache/
+
+# Conda
+
+conda-meta/
+*.csv
+*.zip
