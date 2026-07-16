@@ -1,8 +1,8 @@
-# 🎮 Steam Games Analysis
+# Steam Games Analysis
 
 An exploratory data analysis of the Steam game catalog, digging into genres, platform support, pricing, playtime, and player reviews — all visualized with a dark, gaming-inspired aesthetic.
 
-## 📊 About
+## About
 
 This project analyzes a large dataset of games listed on Steam to answer questions like:
 
@@ -47,13 +47,3 @@ jupyter notebook Notebook.ipynb
 ```
 
 > **Note:** the notebook expects a `Steam_Games.csv` file in the same directory. Add your own copy of the Steam games dataset (e.g. from Kaggle) to run it end-to-end.
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Kavin Kohli**
-- GitHub: [@KavinKohli](https://github.com/KavinKohli)
-- LinkedIn: [Kavin Kohli](https://linkedin.com/in/kavin-kohli)
